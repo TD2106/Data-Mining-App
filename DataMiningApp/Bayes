@@ -1,0 +1,19 @@
+                    no                  yes                 
+age
+young               0.333333            0.333333            
+pre-presbyopic      0.333333            0.333333            
+presbyopic          0.333333            0.333333            
+
+spectacle-prescrip
+myope               0.500000            0.500000            
+hypermetrope        0.500000            0.500000            
+
+tear-prod-rate
+reduced             0.500000            0.500000            
+normal              0.500000            0.500000            
+
+contact-lenses
+soft                0.416667            0.000000            
+hard                0.000000            0.333333            
+none                0.583333            0.666667            
+
